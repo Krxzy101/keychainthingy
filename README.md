@@ -6,7 +6,7 @@ A custom challenge coin featuring my online name, **KRXZY**, made for Hack Club.
 
 The coin features:
 - The letters **R X Z Y** stacked vertically on the left side
-- A large "K" arrow/chevron as the centerpiece
+- A large "K" as the centerpiece
 - Two decorative stars framing the design
 - A circular background
 
