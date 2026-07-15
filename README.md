@@ -8,7 +8,7 @@ The coin features:
 - The letters **R X Z Y** stacked vertically on the left side
 - A large "K" as the centerpiece
 - Two decorative stars framing the design
-- A circular background
+- A circular background that holds everything together
 
 ## How I Made It
 
